@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "YOUR NAME",
+    role: "YOUR ROLE",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['python', 'java', 'html', 'css'],
+    link: [
+      "https://github.com/neha-lisa",
+      "https://www.linkedin.com/in/neha-yadav-05a8b3193/",
+      "https://twitter.com/NehaYad40790376",
+    ],
+  }
+
+
 ];
 
 export default data;
