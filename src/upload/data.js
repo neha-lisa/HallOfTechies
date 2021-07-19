@@ -66,9 +66,9 @@ const data = [
     ],
   },
   {
-    name: "YOUR NAME",
-    role: "YOUR ROLE",
-    image: "GITHUB PROFILE IMAGE LINK",
+    name: "Neha Yadav",
+    role: "Developer",
+    image: "",
     skills: ['python', 'java', 'html', 'css'],
     link: [
       "https://github.com/neha-lisa",
